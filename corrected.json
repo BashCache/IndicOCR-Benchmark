@@ -1,0 +1,102 @@
+{
+  "run": {
+    "timestamp": "2026-09-16T13:05:00.889874+05:30",
+    "model": "ta_PP-OCRv5_mobile_rec_infer (full pipeline)",
+    "total_images": 1,
+    "config": {
+      "mode": "full_pipeline",
+      "lang": "ta",
+      "use_gpu": false,
+      "angle_cls": true,
+      "threshold": 0.5
+    }
+  },
+  "images": [
+    {
+      "image_id": "prize_for_honesty_region_04_text_65pct_bbox_overlay.jpg",
+      "image_path": "/home/shruthi/Desktop/Shruthi/OCR/outputs/prize_for_honesty_region_04_text_65pct_bbox_overlay.jpg",
+      "original_shape": {
+        "height": 47,
+        "width": 704
+      },
+      "columns_detected": 1,
+      "lines": [
+        {
+          "bbox": [
+            [
+              0,
+              8
+            ],
+            [
+              12,
+              8
+            ],
+            [
+              12,
+              24
+            ],
+            [
+              0,
+              24
+            ]
+          ],
+          "text": "2",
+          "confidence": 0.9999,
+          "low_confidence": false,
+          "_corrected_order": 1
+        },
+        {
+          "bbox": [
+            [
+              1,
+              10
+            ],
+            [
+              564,
+              3
+            ],
+            [
+              564,
+              38
+            ],
+            [
+              2,
+              46
+            ]
+          ],
+          "text": "அதற்கு அவள், '\"'இது பாவச்செயல்",
+          "confidence": 0.9303,
+          "low_confidence": false,
+          "_corrected_order": 2
+        },
+        {
+          "bbox": [
+            [
+              564,
+              4
+            ],
+            [
+              701,
+              0
+            ],
+            [
+              702,
+              37
+            ],
+            [
+              565,
+              41
+            ]
+          ],
+          "text": "அம்மா.",
+          "confidence": 0.9887,
+          "low_confidence": false,
+          "_corrected_order": 3
+        }
+      ],
+      "full_text": "2\nஅதற்கு அவள், '\"'இது பாவச்செயல்\nஅம்மா.",
+      "line_count": 3,
+      "downscaled": false
+    }
+  ]
+}

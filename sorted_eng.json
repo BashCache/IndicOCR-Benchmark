@@ -1,0 +1,5413 @@
+{
+  "run": {
+    "timestamp": "2026-09-16T01:38:56.369694+05:30",
+    "model": "ta_PP-OCRv5_mobile_rec_infer (full pipeline)",
+    "total_images": 1,
+    "config": {
+      "mode": "full_pipeline",
+      "lang": "ta",
+      "use_gpu": false,
+      "angle_cls": true,
+      "threshold": 0.5
+    }
+  },
+  "images": [
+    {
+      "image_id": "eng-only-content-6cols.png",
+      "image_path": "/home/shruthi/Desktop/Shruthi/OCR/eng-only-content-6cols.png",
+      "original_shape": {
+        "height": 691,
+        "width": 1132
+      },
+      "columns_detected": 1,
+      "lines": [
+        {
+          "bbox": [
+            [
+              561,
+              5
+            ],
+            [
+              731,
+              5
+            ],
+            [
+              731,
+              22
+            ],
+            [
+              561,
+              22
+            ]
+          ],
+          "text": "rights. Now comes the really sad",
+          "confidence": 0.9909,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              5
+            ],
+            [
+              914,
+              5
+            ],
+            [
+              914,
+              19
+            ],
+            [
+              744,
+              19
+            ]
+          ],
+          "text": "cannot create something by hav-",
+          "confidence": 0.9647,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              5
+            ],
+            [
+              1099,
+              5
+            ],
+            [
+              1099,
+              22
+            ],
+            [
+              929,
+              22
+            ]
+          ],
+          "text": "backto meastworupeesayearfor",
+          "confidence": 0.9825,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              6
+            ],
+            [
+              177,
+              6
+            ],
+            [
+              177,
+              20
+            ],
+            [
+              8,
+              20
+            ]
+          ],
+          "text": "TAMIL NADU Finance Minister",
+          "confidence": 0.9748,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              20
+            ],
+            [
+              732,
+              19
+            ],
+            [
+              732,
+              35
+            ],
+            [
+              560,
+              36
+            ]
+          ],
+          "text": "part. It is an undeniable tenet of",
+          "confidence": 0.9925,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              20
+            ],
+            [
+              916,
+              19
+            ],
+            [
+              916,
+              35
+            ],
+            [
+              744,
+              36
+            ]
+          ],
+          "text": "ingarope...Lookatall the auditre-",
+          "confidence": 0.9615,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              19
+            ],
+            [
+              1099,
+              20
+            ],
+            [
+              1099,
+              36
+            ],
+            [
+              928,
+              35
+            ]
+          ],
+          "text": "the next 50years. Effectively, in to-",
+          "confidence": 0.9534,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              22
+            ],
+            [
+              177,
+              22
+            ],
+            [
+              177,
+              35
+            ],
+            [
+              8,
+              35
+            ]
+          ],
+          "text": "PALANIVELTHIAGARAJANsaid in",
+          "confidence": 0.9917,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              33
+            ],
+            [
+              917,
+              32
+            ],
+            [
+              917,
+              49
+            ],
+            [
+              745,
+              50
+            ]
+          ],
+          "text": "ports on Swachh Bharat, on krishi",
+          "confidence": 0.9383,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              34
+            ],
+            [
+              1100,
+              34
+            ],
+            [
+              1100,
+              51
+            ],
+            [
+              929,
+              51
+            ]
+          ],
+          "text": "day's money, you are only paying",
+          "confidence": 0.974,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              35
+            ],
+            [
+              178,
+              35
+            ],
+            [
+              178,
+              49
+            ],
+            [
+              8,
+              49
+            ]
+          ],
+          "text": "an interview to SUNNY VERMA",
+          "confidence": 0.9606,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              35
+            ],
+            [
+              731,
+              35
+            ],
+            [
+              731,
+              49
+            ],
+            [
+              562,
+              49
+            ]
+          ],
+          "text": "democracythatthe closeryouare",
+          "confidence": 0.9705,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              49
+            ],
+            [
+              731,
+              49
+            ],
+            [
+              731,
+              66
+            ],
+            [
+              560,
+              66
+            ]
+          ],
+          "text": "tothe people, the more accounta-",
+          "confidence": 0.9724,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              9,
+              50
+            ],
+            [
+              177,
+              50
+            ],
+            [
+              177,
+              64
+            ],
+            [
+              9,
+              64
+            ]
+          ],
+          "text": "that the Centre has, over the past",
+          "confidence": 0.9935,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              50
+            ],
+            [
+              915,
+              50
+            ],
+            [
+              915,
+              64
+            ],
+            [
+              746,
+              64
+            ]
+          ],
+          "text": "kalyan, they say the money goes,",
+          "confidence": 0.9866,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              50
+            ],
+            [
+              1099,
+              50
+            ],
+            [
+              1099,
+              64
+            ],
+            [
+              930,
+              64
+            ]
+          ],
+          "text": "backaboutRs 15 or20,because50",
+          "confidence": 0.9823,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              927,
+              64
+            ],
+            [
+              1100,
+              63
+            ],
+            [
+              1100,
+              79
+            ],
+            [
+              927,
+              81
+            ]
+          ],
+          "text": "years from now two rupees is",
+          "confidence": 0.9986,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              7,
+              66
+            ],
+            [
+              177,
+              64
+            ],
+            [
+              177,
+              78
+            ],
+            [
+              7,
+              80
+            ]
+          ],
+          "text": "seven years, steadily increased its",
+          "confidence": 0.9837,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              64
+            ],
+            [
+              914,
+              64
+            ],
+            [
+              914,
+              78
+            ],
+            [
+              744,
+              78
+            ]
+          ],
+          "text": "some toilets are built but there is",
+          "confidence": 0.975,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              65
+            ],
+            [
+              708,
+              65
+            ],
+            [
+              708,
+              79
+            ],
+            [
+              561,
+              79
+            ]
+          ],
+          "text": "bility is built into the system.",
+          "confidence": 0.9753,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              80
+            ],
+            [
+              176,
+              80
+            ],
+            [
+              176,
+              94
+            ],
+            [
+              8,
+              94
+            ]
+          ],
+          "text": "control over state governments'",
+          "confidence": 0.9881,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              579,
+              80
+            ],
+            [
+              731,
+              80
+            ],
+            [
+              731,
+              93
+            ],
+            [
+              579,
+              93
+            ]
+          ],
+          "text": ".Sothisisafundamental tenet",
+          "confidence": 0.9211,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              80
+            ],
+            [
+              914,
+              80
+            ],
+            [
+              914,
+              94
+            ],
+            [
+              745,
+              94
+            ]
+          ],
+          "text": "nowatersupply.Thewatersupply",
+          "confidence": 0.9854,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              80
+            ],
+            [
+              1098,
+              80
+            ],
+            [
+              1098,
+              93
+            ],
+            [
+              930,
+              93
+            ]
+          ],
+          "text": "worth nothing, because of infla-",
+          "confidence": 0.9742,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              94
+            ],
+            [
+              730,
+              94
+            ],
+            [
+              730,
+              108
+            ],
+            [
+              562,
+              108
+            ]
+          ],
+          "text": "that if you have power and deci-",
+          "confidence": 0.9716,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              9,
+              95
+            ],
+            [
+              177,
+              95
+            ],
+            [
+              177,
+              109
+            ],
+            [
+              9,
+              109
+            ]
+          ],
+          "text": "spending power, which is leading",
+          "confidence": 0.9912,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              95
+            ],
+            [
+              915,
+              95
+            ],
+            [
+              915,
+              109
+            ],
+            [
+              745,
+              109
+            ]
+          ],
+          "text": "cannot be continuously moni-",
+          "confidence": 0.9959,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              95
+            ],
+            [
+              1098,
+              95
+            ],
+            [
+              1098,
+              108
+            ],
+            [
+              930,
+              108
+            ]
+          ],
+          "text": "tion. So at some level, the differ-",
+          "confidence": 0.9648,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              110
+            ],
+            [
+              177,
+              110
+            ],
+            [
+              177,
+              124
+            ],
+            [
+              8,
+              124
+            ]
+          ],
+          "text": "to a lot of inefficiencies. Edited",
+          "confidence": 0.9875,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              110
+            ],
+            [
+              730,
+              110
+            ],
+            [
+              730,
+              124
+            ],
+            [
+              561,
+              124
+            ]
+          ],
+          "text": "sion makingallocated to the near-",
+          "confidence": 0.9581,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              110
+            ],
+            [
+              914,
+              110
+            ],
+            [
+              914,
+              124
+            ],
+            [
+              746,
+              124
+            ]
+          ],
+          "text": "tored fromDelhi, right, watersup-",
+          "confidence": 0.9774,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              110
+            ],
+            [
+              1099,
+              110
+            ],
+            [
+              1099,
+              124
+            ],
+            [
+              930,
+              124
+            ]
+          ],
+          "text": "encebetweena50-year, notinter-",
+          "confidence": 0.9852,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              124
+            ],
+            [
+              731,
+              124
+            ],
+            [
+              731,
+              140
+            ],
+            [
+              561,
+              140
+            ]
+          ],
+          "text": "est point to the people, then you",
+          "confidence": 0.9867,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              124
+            ],
+            [
+              916,
+              124
+            ],
+            [
+              916,
+              140
+            ],
+            [
+              745,
+              140
+            ]
+          ],
+          "text": "ply is a municipal subject It's not",
+          "confidence": 0.9509,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              7,
+              126
+            ],
+            [
+              57,
+              126
+            ],
+            [
+              57,
+              140
+            ],
+            [
+              7,
+              140
+            ]
+          ],
+          "text": "excerpts:",
+          "confidence": 0.9955,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              126
+            ],
+            [
+              1099,
+              126
+            ],
+            [
+              1099,
+              139
+            ],
+            [
+              930,
+              139
+            ]
+          ],
+          "text": "est payable, equal instalment",
+          "confidence": 0.9625,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              138
+            ],
+            [
+              731,
+              137
+            ],
+            [
+              731,
+              154
+            ],
+            [
+              560,
+              155
+            ]
+          ],
+          "text": "can getaccountability and increase",
+          "confidence": 0.9591,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              139
+            ],
+            [
+              847,
+              137
+            ],
+            [
+              847,
+              154
+            ],
+            [
+              745,
+              156
+            ]
+          ],
+          "text": "even a state subject.",
+          "confidence": 0.9514,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              140
+            ],
+            [
+              1099,
+              140
+            ],
+            [
+              1099,
+              154
+            ],
+            [
+              930,
+              154
+            ]
+          ],
+          "text": "repayment loan and a grant is not",
+          "confidence": 0.9665,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              151
+            ],
+            [
+              1099,
+              153
+            ],
+            [
+              1099,
+              170
+            ],
+            [
+              928,
+              168
+            ]
+          ],
+          "text": "that big But the difference being",
+          "confidence": 0.9638,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              153
+            ],
+            [
+              730,
+              153
+            ],
+            [
+              730,
+              167
+            ],
+            [
+              562,
+              167
+            ]
+          ],
+          "text": "the likelihood of delivery ofresults.",
+          "confidence": 0.9891,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              154
+            ],
+            [
+              175,
+              154
+            ],
+            [
+              175,
+              167
+            ],
+            [
+              8,
+              167
+            ]
+          ],
+          "text": "On Centre-statefiscalrelations",
+          "confidence": 0.9891,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              763,
+              154
+            ],
+            [
+              915,
+              154
+            ],
+            [
+              915,
+              168
+            ],
+            [
+              763,
+              168
+            ]
+          ],
+          "text": "Soyoubuild all this, but ifthere",
+          "confidence": 0.9627,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              743,
+              167
+            ],
+            [
+              916,
+              168
+            ],
+            [
+              916,
+              185
+            ],
+            [
+              743,
+              184
+            ]
+          ],
+          "text": "is no water supply, what happens",
+          "confidence": 0.9676,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              167
+            ],
+            [
+              1099,
+              169
+            ],
+            [
+              1099,
+              186
+            ],
+            [
+              928,
+              183
+            ]
+          ],
+          "text": "why should they say not pre-",
+          "confidence": 0.9971,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              26,
+              169
+            ],
+            [
+              177,
+              169
+            ],
+            [
+              177,
+              183
+            ],
+            [
+              26,
+              183
+            ]
+          ],
+          "text": "I'll give you some history.The",
+          "confidence": 0.9066,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              169
+            ],
+            [
+              730,
+              169
+            ],
+            [
+              730,
+              183
+            ],
+            [
+              562,
+              183
+            ]
+          ],
+          "text": "Ifyoutake it far away fromthe peo-",
+          "confidence": 0.9734,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              183
+            ],
+            [
+              911,
+              183
+            ],
+            [
+              911,
+              199
+            ],
+            [
+              745,
+              199
+            ]
+          ],
+          "text": "is you've just wasted the money.",
+          "confidence": 0.9427,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              9,
+              184
+            ],
+            [
+              177,
+              184
+            ],
+            [
+              177,
+              197
+            ],
+            [
+              9,
+              197
+            ]
+          ],
+          "text": "problembeginswith a fundamen-",
+          "confidence": 0.9736,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              184
+            ],
+            [
+              731,
+              184
+            ],
+            [
+              731,
+              197
+            ],
+            [
+              562,
+              197
+            ]
+          ],
+          "text": "ple, vouinherently have a problem",
+          "confidence": 0.9416,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              185
+            ],
+            [
+              1098,
+              185
+            ],
+            [
+              1098,
+              198
+            ],
+            [
+              930,
+              198
+            ]
+          ],
+          "text": "payable,thenwestartquestioning",
+          "confidence": 0.9811,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              198
+            ],
+            [
+              730,
+              198
+            ],
+            [
+              730,
+              212
+            ],
+            [
+              561,
+              212
+            ]
+          ],
+          "text": "because then be very difficult to",
+          "confidence": 0.9638,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              198
+            ],
+            [
+              984,
+              198
+            ],
+            [
+              984,
+              212
+            ],
+            [
+              929,
+              212
+            ]
+          ],
+          "text": "the intent.",
+          "confidence": 0.9412,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              199
+            ],
+            [
+              177,
+              199
+            ],
+            [
+              177,
+              212
+            ],
+            [
+              8,
+              212
+            ]
+          ],
+          "text": "tal, anti-federal, anti-state,author-",
+          "confidence": 0.9727,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              5,
+              211
+            ],
+            [
+              178,
+              212
+            ],
+            [
+              178,
+              229
+            ],
+            [
+              5,
+              228
+            ]
+          ],
+          "text": "itrian approachofDelhi It's anold",
+          "confidence": 0.9432,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              211
+            ],
+            [
+              900,
+              212
+            ],
+            [
+              899,
+              229
+            ],
+            [
+              744,
+              228
+            ]
+          ],
+          "text": "Centre'screativeaccounting",
+          "confidence": 0.9722,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              214
+            ],
+            [
+              730,
+              214
+            ],
+            [
+              730,
+              228
+            ],
+            [
+              561,
+              228
+            ]
+          ],
+          "text": "have anyconnectivitybetween the",
+          "confidence": 0.9867,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              948,
+              214
+            ],
+            [
+              1097,
+              214
+            ],
+            [
+              1097,
+              227
+            ],
+            [
+              948,
+              227
+            ]
+          ],
+          "text": "Whyshould itbe intheUnion'",
+          "confidence": 0.983,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              761,
+              226
+            ],
+            [
+              916,
+              228
+            ],
+            [
+              916,
+              244
+            ],
+            [
+              761,
+              242
+            ]
+          ],
+          "text": "In the context of all this I say",
+          "confidence": 0.9737,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              226
+            ],
+            [
+              1091,
+              229
+            ],
+            [
+              1090,
+              245
+            ],
+            [
+              928,
+              242
+            ]
+          ],
+          "text": "interest that you cannot prepay",
+          "confidence": 0.9845,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              229
+            ],
+            [
+              730,
+              229
+            ],
+            [
+              730,
+              241
+            ],
+            [
+              562,
+              241
+            ]
+          ],
+          "text": "decision maker and the benefici-",
+          "confidence": 0.9813,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              25,
+              230
+            ],
+            [
+              177,
+              230
+            ],
+            [
+              177,
+              243
+            ],
+            [
+              25,
+              243
+            ]
+          ],
+          "text": "ing in politics that where you",
+          "confidence": 0.9947,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              243
+            ],
+            [
+              730,
+              243
+            ],
+            [
+              730,
+              257
+            ],
+            [
+              561,
+              257
+            ]
+          ],
+          "text": "aries of the decision. So this is the",
+          "confidence": 0.9384,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              243
+            ],
+            [
+              916,
+              243
+            ],
+            [
+              916,
+              257
+            ],
+            [
+              746,
+              257
+            ]
+          ],
+          "text": "that, therefore, they have taken",
+          "confidence": 0.978,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              243
+            ],
+            [
+              1091,
+              243
+            ],
+            [
+              1091,
+              257
+            ],
+            [
+              930,
+              257
+            ]
+          ],
+          "text": "Onwhat logicdoes it makesense",
+          "confidence": 0.9687,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              24,
+              244
+            ],
+            [
+              177,
+              244
+            ],
+            [
+              177,
+              258
+            ],
+            [
+              24,
+              258
+            ]
+          ],
+          "text": "nd depends on where you sit,",
+          "confidence": 0.9649,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              257
+            ],
+            [
+              916,
+              256
+            ],
+            [
+              916,
+              271
+            ],
+            [
+              744,
+              272
+            ]
+          ],
+          "text": "two accounting tricks, what I",
+          "confidence": 0.9735,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              258
+            ],
+            [
+              178,
+              258
+            ],
+            [
+              178,
+              272
+            ],
+            [
+              8,
+              272
+            ]
+          ],
+          "text": "implyingthatwhereyoustand on",
+          "confidence": 0.9662,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              258
+            ],
+            [
+              730,
+              258
+            ],
+            [
+              730,
+              272
+            ],
+            [
+              561,
+              272
+            ]
+          ],
+          "text": "sad part as they keep taking the",
+          "confidence": 0.9677,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              258
+            ],
+            [
+              1098,
+              258
+            ],
+            [
+              1098,
+              272
+            ],
+            [
+              930,
+              272
+            ]
+          ],
+          "text": "What purpose is served by not al-",
+          "confidence": 0.9704,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              7,
+              272
+            ],
+            [
+              177,
+              273
+            ],
+            [
+              177,
+              287
+            ],
+            [
+              7,
+              286
+            ]
+          ],
+          "text": "the issues based on whether you",
+          "confidence": 0.994,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              272
+            ],
+            [
+              730,
+              272
+            ],
+            [
+              730,
+              286
+            ],
+            [
+              560,
+              286
+            ]
+          ],
+          "text": "power moreand more awayfrom",
+          "confidence": 0.9668,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              273
+            ],
+            [
+              915,
+              273
+            ],
+            [
+              915,
+              287
+            ],
+            [
+              746,
+              287
+            ]
+          ],
+          "text": "called as exquisitely creative ac-",
+          "confidence": 0.9966,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              273
+            ],
+            [
+              1099,
+              273
+            ],
+            [
+              1099,
+              287
+            ],
+            [
+              930,
+              287
+            ]
+          ],
+          "text": "lowing prepayment? If I'm the",
+          "confidence": 0.9811,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              192,
+              285
+            ],
+            [
+              325,
+              285
+            ],
+            [
+              325,
+              301
+            ],
+            [
+              192,
+              301
+            ]
+          ],
+          "text": "Palanivel Thiaga Rajan",
+          "confidence": 0.9822,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              511,
+              286
+            ],
+            [
+              549,
+              286
+            ],
+            [
+              549,
+              304
+            ],
+            [
+              511,
+              304
+            ]
+          ],
+          "text": "PIfile",
+          "confidence": 0.8982,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              288
+            ],
+            [
+              178,
+              288
+            ],
+            [
+              178,
+              301
+            ],
+            [
+              8,
+              301
+            ]
+          ],
+          "text": "sit in Opposition, in the House or",
+          "confidence": 0.9922,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              288
+            ],
+            [
+              730,
+              288
+            ],
+            [
+              730,
+              301
+            ],
+            [
+              561,
+              301
+            ]
+          ],
+          "text": "states and local bodies to the",
+          "confidence": 0.9735,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              288
+            ],
+            [
+              915,
+              288
+            ],
+            [
+              915,
+              301
+            ],
+            [
+              746,
+              301
+            ]
+          ],
+          "text": "counting, Because of Article 293",
+          "confidence": 0.9873,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              288
+            ],
+            [
+              1099,
+              288
+            ],
+            [
+              1099,
+              301
+            ],
+            [
+              930,
+              301
+            ]
+          ],
+          "text": "lender, I should be the happiest if",
+          "confidence": 0.977,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              299
+            ],
+            [
+              731,
+              300
+            ],
+            [
+              731,
+              317
+            ],
+            [
+              559,
+              316
+            ]
+          ],
+          "text": "Union; they are inherently creat-",
+          "confidence": 0.9502,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              6,
+              300
+            ],
+            [
+              179,
+              302
+            ],
+            [
+              179,
+              319
+            ],
+            [
+              6,
+              317
+            ]
+          ],
+          "text": "out on the street, etc. That saying",
+          "confidence": 0.9982,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              300
+            ],
+            [
+              1100,
+              301
+            ],
+            [
+              1100,
+              318
+            ],
+            [
+              928,
+              317
+            ]
+          ],
+          "text": "it's prepaid because I'm getting it",
+          "confidence": 0.9594,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              301
+            ],
+            [
+              916,
+              301
+            ],
+            [
+              916,
+              318
+            ],
+            [
+              745,
+              318
+            ]
+          ],
+          "text": "(3),the previousAIADMK govem-",
+          "confidence": 0.9689,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              316
+            ],
+            [
+              643,
+              316
+            ],
+            [
+              643,
+              333
+            ],
+            [
+              560,
+              333
+            ]
+          ],
+          "text": "ingproblemsof",
+          "confidence": 0.991,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              834,
+              317
+            ],
+            [
+              916,
+              316
+            ],
+            [
+              916,
+              331
+            ],
+            [
+              834,
+              332
+            ]
+          ],
+          "text": "ment, which",
+          "confidence": 0.9802,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              317
+            ],
+            [
+              176,
+              317
+            ],
+            [
+              176,
+              330
+            ],
+            [
+              8,
+              330
+            ]
+          ],
+          "text": "cannot be more apt, there'sa clas-",
+          "confidence": 0.9411,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              318
+            ],
+            [
+              1099,
+              318
+            ],
+            [
+              1099,
+              332
+            ],
+            [
+              930,
+              332
+            ]
+          ],
+          "text": "in advance where it actually",
+          "confidence": 0.9834,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              834,
+              332
+            ],
+            [
+              915,
+              330
+            ],
+            [
+              916,
+              346
+            ],
+            [
+              834,
+              349
+            ]
+          ],
+          "text": "was a coalition",
+          "confidence": 0.9628,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              375,
+              331
+            ],
+            [
+              547,
+              332
+            ],
+            [
+              547,
+              348
+            ],
+            [
+              375,
+              347
+            ]
+          ],
+          "text": "per cent. Fourth year, they say",
+          "confidence": 0.9887,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              332
+            ],
+            [
+              643,
+              332
+            ],
+            [
+              643,
+              348
+            ],
+            [
+              560,
+              348
+            ]
+          ],
+          "text": "complexity in",
+          "confidence": 0.9628,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              333
+            ],
+            [
+              177,
+              333
+            ],
+            [
+              177,
+              346
+            ],
+            [
+              8,
+              346
+            ]
+          ],
+          "text": "sic example for that saying being",
+          "confidence": 0.9593,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              333
+            ],
+            [
+              361,
+              333
+            ],
+            [
+              361,
+              346
+            ],
+            [
+              193,
+              346
+            ]
+          ],
+          "text": "Chief Minister of Gujarat for 13",
+          "confidence": 0.9951,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              333
+            ],
+            [
+              1099,
+              333
+            ],
+            [
+              1099,
+              346
+            ],
+            [
+              930,
+              346
+            ]
+          ],
+          "text": "means something Prepayment",
+          "confidence": 0.9936,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              834,
+              347
+            ],
+            [
+              915,
+              344
+            ],
+            [
+              916,
+              361
+            ],
+            [
+              834,
+              363
+            ]
+          ],
+          "text": "partner of the",
+          "confidence": 0.9692,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              190,
+              347
+            ],
+            [
+              363,
+              345
+            ],
+            [
+              363,
+              362
+            ],
+            [
+              190,
+              363
+            ]
+          ],
+          "text": "years. This is the underlying con-",
+          "confidence": 0.9519,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              346
+            ],
+            [
+              643,
+              346
+            ],
+            [
+              643,
+              363
+            ],
+            [
+              559,
+              363
+            ]
+          ],
+          "text": "two or three",
+          "confidence": 0.984,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              347
+            ],
+            [
+              177,
+              347
+            ],
+            [
+              177,
+              361
+            ],
+            [
+              8,
+              361
+            ]
+          ],
+          "text": "true, which is our current Prime",
+          "confidence": 0.9997,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              377,
+              347
+            ],
+            [
+              546,
+              347
+            ],
+            [
+              546,
+              361
+            ],
+            [
+              377,
+              361
+            ]
+          ],
+          "text": "state has to continue but we will",
+          "confidence": 0.9781,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              347
+            ],
+            [
+              1099,
+              347
+            ],
+            [
+              1099,
+              361
+            ],
+            [
+              930,
+              361
+            ]
+          ],
+          "text": "should have been in the interest of",
+          "confidence": 0.9376,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              358
+            ],
+            [
+              642,
+              360
+            ],
+            [
+              641,
+              378
+            ],
+            [
+              559,
+              376
+            ]
+          ],
+          "text": "ways. One, they",
+          "confidence": 0.9732,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              375,
+              360
+            ],
+            [
+              547,
+              359
+            ],
+            [
+              547,
+              376
+            ],
+            [
+              375,
+              377
+            ]
+          ],
+          "text": "give zero, right. It will still be",
+          "confidence": 0.996,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              359
+            ],
+            [
+              917,
+              359
+            ],
+            [
+              917,
+              376
+            ],
+            [
+              835,
+              376
+            ]
+          ],
+          "text": "BJP, never felt",
+          "confidence": 0.9598,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              361
+            ],
+            [
+              362,
+              361
+            ],
+            [
+              362,
+              375
+            ],
+            [
+              193,
+              375
+            ]
+          ],
+          "text": "text. See, they do it bit by bit, bit",
+          "confidence": 0.9811,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              361
+            ],
+            [
+              1099,
+              361
+            ],
+            [
+              1099,
+              375
+            ],
+            [
+              930,
+              375
+            ]
+          ],
+          "text": "the borrower by a lot, by a margin",
+          "confidence": 0.9824,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              362
+            ],
+            [
+              178,
+              362
+            ],
+            [
+              178,
+              375
+            ],
+            [
+              8,
+              375
+            ]
+          ],
+          "text": "Minister (Narendra Modi). As a",
+          "confidence": 0.9634,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              654,
+              367
+            ],
+            [
+              821,
+              367
+            ],
+            [
+              821,
+              387
+            ],
+            [
+              654,
+              387
+            ]
+          ],
+          "text": "Why should it be in the",
+          "confidence": 0.9956,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              834,
+              373
+            ],
+            [
+              918,
+              375
+            ],
+            [
+              917,
+              393
+            ],
+            [
+              834,
+              391
+            ]
+          ],
+          "text": "like taking it",
+          "confidence": 0.9977,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              375
+            ],
+            [
+              642,
+              375
+            ],
+            [
+              642,
+              393
+            ],
+            [
+              559,
+              393
+            ]
+          ],
+          "text": "are reducing",
+          "confidence": 0.9528,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              931,
+              376
+            ],
+            [
+              1098,
+              376
+            ],
+            [
+              1098,
+              390
+            ],
+            [
+              931,
+              390
+            ]
+          ],
+          "text": "of thousand, but when it's not al-",
+          "confidence": 0.9604,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              377
+            ],
+            [
+              177,
+              377
+            ],
+            [
+              177,
+              390
+            ],
+            [
+              8,
+              390
+            ]
+          ],
+          "text": "Chief Minister, hewasthe greatest",
+          "confidence": 0.9654,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              192,
+              377
+            ],
+            [
+              361,
+              377
+            ],
+            [
+              361,
+              391
+            ],
+            [
+              192,
+              391
+            ]
+          ],
+          "text": "by bit, insidious creeping. So.",
+          "confidence": 0.9942,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              377,
+              377
+            ],
+            [
+              546,
+              377
+            ],
+            [
+              546,
+              391
+            ],
+            [
+              377,
+              391
+            ]
+          ],
+          "text": "called 'PM xyz scheme'. So, this",
+          "confidence": 0.9826,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              652,
+              388
+            ],
+            [
+              801,
+              387
+            ],
+            [
+              802,
+              406
+            ],
+            [
+              652,
+              407
+            ]
+          ],
+          "text": "Union's interest that",
+          "confidence": 0.9796,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              375,
+              389
+            ],
+            [
+              547,
+              391
+            ],
+            [
+              547,
+              407
+            ],
+            [
+              375,
+              405
+            ]
+          ],
+          "text": "is a kind of my name but your",
+          "confidence": 0.9756,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              390
+            ],
+            [
+              917,
+              390
+            ],
+            [
+              917,
+              406
+            ],
+            [
+              835,
+              406
+            ]
+          ],
+          "text": "(theCentre's",
+          "confidence": 0.9712,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              391
+            ],
+            [
+              638,
+              391
+            ],
+            [
+              638,
+              407
+            ],
+            [
+              560,
+              407
+            ]
+          ],
+          "text": "accountability",
+          "confidence": 0.9885,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              392
+            ],
+            [
+              177,
+              392
+            ],
+            [
+              177,
+              405
+            ],
+            [
+              8,
+              405
+            ]
+          ],
+          "text": "champion of states' rights, most",
+          "confidence": 0.9967,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              392
+            ],
+            [
+              362,
+              392
+            ],
+            [
+              362,
+              405
+            ],
+            [
+              193,
+              405
+            ]
+          ],
+          "text": "they started by ramping up the",
+          "confidence": 0.9588,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              931,
+              392
+            ],
+            [
+              1099,
+              392
+            ],
+            [
+              1099,
+              404
+            ],
+            [
+              931,
+              404
+            ]
+          ],
+          "text": "lowed thequestionarises ifthere is",
+          "confidence": 0.9594,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              376,
+              405
+            ],
+            [
+              490,
+              405
+            ],
+            [
+              490,
+              422
+            ],
+            [
+              376,
+              422
+            ]
+          ],
+          "text": "money kind of game.",
+          "confidence": 0.991,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              405
+            ],
+            [
+              642,
+              405
+            ],
+            [
+              642,
+              422
+            ],
+            [
+              559,
+              422
+            ]
+          ],
+          "text": "of govemnment",
+          "confidence": 0.9085,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              406
+            ],
+            [
+              177,
+              406
+            ],
+            [
+              177,
+              420
+            ],
+            [
+              8,
+              420
+            ]
+          ],
+          "text": "vocal, even may be overshadow-",
+          "confidence": 0.9989,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              406
+            ],
+            [
+              362,
+              406
+            ],
+            [
+              362,
+              420
+            ],
+            [
+              193,
+              420
+            ]
+          ],
+          "text": "Centrally-sponsored schemes",
+          "confidence": 0.9996,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              836,
+              406
+            ],
+            [
+              916,
+              406
+            ],
+            [
+              916,
+              420
+            ],
+            [
+              836,
+              420
+            ]
+          ],
+          "text": "loan) because,",
+          "confidence": 0.9611,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              406
+            ],
+            [
+              1049,
+              406
+            ],
+            [
+              1049,
+              420
+            ],
+            [
+              930,
+              420
+            ]
+          ],
+          "text": "an ulterior motive here.",
+          "confidence": 0.9875,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              651,
+              409
+            ],
+            [
+              820,
+              407
+            ],
+            [
+              820,
+              428
+            ],
+            [
+              651,
+              430
+            ]
+          ],
+          "text": "you cannot prepay? On",
+          "confidence": 0.9849,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              418
+            ],
+            [
+              641,
+              420
+            ],
+            [
+              640,
+              438
+            ],
+            [
+              559,
+              436
+            ]
+          ],
+          "text": "to the people.",
+          "confidence": 0.9974,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              834,
+              418
+            ],
+            [
+              917,
+              420
+            ],
+            [
+              916,
+              437
+            ],
+            [
+              834,
+              435
+            ]
+          ],
+          "text": "at that time, it",
+          "confidence": 0.9936,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              191,
+              419
+            ],
+            [
+              363,
+              420
+            ],
+            [
+              363,
+              437
+            ],
+            [
+              191,
+              436
+            ]
+          ],
+          "text": "like crazy, up to Rs 4–6 lakh crore",
+          "confidence": 0.9553,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              948,
+              420
+            ],
+            [
+              1098,
+              421
+            ],
+            [
+              1098,
+              437
+            ],
+            [
+              948,
+              436
+            ]
+          ],
+          "text": "(Whenourgovemment came",
+          "confidence": 0.9962,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              421
+            ],
+            [
+              177,
+              421
+            ],
+            [
+              177,
+              435
+            ],
+            [
+              8,
+              435
+            ]
+          ],
+          "text": "ing Jayalalithaa (former Tamil",
+          "confidence": 0.9862,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              652,
+              428
+            ],
+            [
+              820,
+              426
+            ],
+            [
+              820,
+              447
+            ],
+            [
+              652,
+              449
+            ]
+          ],
+          "text": "what logic does it make",
+          "confidence": 0.9841,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              833,
+              434
+            ],
+            [
+              916,
+              436
+            ],
+            [
+              915,
+              453
+            ],
+            [
+              833,
+              450
+            ]
+          ],
+          "text": "was very clear",
+          "confidence": 0.9673,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              376,
+              435
+            ],
+            [
+              454,
+              435
+            ],
+            [
+              454,
+              452
+            ],
+            [
+              376,
+              452
+            ]
+          ],
+          "text": "Statesubjects",
+          "confidence": 0.9999,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              435
+            ],
+            [
+              643,
+              435
+            ],
+            [
+              643,
+              452
+            ],
+            [
+              560,
+              452
+            ]
+          ],
+          "text": "Without in-",
+          "confidence": 0.9974,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              437
+            ],
+            [
+              177,
+              437
+            ],
+            [
+              177,
+              450
+            ],
+            [
+              8,
+              450
+            ]
+          ],
+          "text": "NaduChiefMinister) herself.Since",
+          "confidence": 0.9798,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              437
+            ],
+            [
+              361,
+              437
+            ],
+            [
+              361,
+              451
+            ],
+            [
+              193,
+              451
+            ]
+          ],
+          "text": "of direct benefits and Centrally-",
+          "confidence": 0.9778,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              437
+            ],
+            [
+              1098,
+              437
+            ],
+            [
+              1098,
+              450
+            ],
+            [
+              930,
+              450
+            ]
+          ],
+          "text": "into office)andwe had thisdiscus-",
+          "confidence": 0.9304,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              833,
+              448
+            ],
+            [
+              917,
+              451
+            ],
+            [
+              916,
+              467
+            ],
+            [
+              833,
+              465
+            ]
+          ],
+          "text": "that it was just",
+          "confidence": 0.971,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              392,
+              450
+            ],
+            [
+              547,
+              449
+            ],
+            [
+              547,
+              465
+            ],
+            [
+              392,
+              466
+            ]
+          ],
+          "text": "The next point is in the actual",
+          "confidence": 0.9639,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              450
+            ],
+            [
+              643,
+              450
+            ],
+            [
+              643,
+              466
+            ],
+            [
+              560,
+              466
+            ]
+          ],
+          "text": "volving the",
+          "confidence": 0.9913,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              652,
+              450
+            ],
+            [
+              817,
+              450
+            ],
+            [
+              817,
+              469
+            ],
+            [
+              652,
+              469
+            ]
+          ],
+          "text": "sense? what purpose is",
+          "confidence": 0.9917,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              452
+            ],
+            [
+              178,
+              452
+            ],
+            [
+              178,
+              465
+            ],
+            [
+              8,
+              465
+            ]
+          ],
+          "text": "he has become Prime Minister, it",
+          "confidence": 0.979,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              192,
+              452
+            ],
+            [
+              361,
+              452
+            ],
+            [
+              361,
+              465
+            ],
+            [
+              192,
+              465
+            ]
+          ],
+          "text": "sponsored scheme transfers.",
+          "confidence": 0.9943,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              452
+            ],
+            [
+              1098,
+              452
+            ],
+            [
+              1098,
+              464
+            ],
+            [
+              930,
+              464
+            ]
+          ],
+          "text": "sion, it was verv clear that the",
+          "confidence": 0.9756,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              377,
+              465
+            ],
+            [
+              546,
+              465
+            ],
+            [
+              546,
+              479
+            ],
+            [
+              377,
+              479
+            ]
+          ],
+          "text": "administration of things like",
+          "confidence": 0.9943,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              465
+            ],
+            [
+              641,
+              465
+            ],
+            [
+              641,
+              479
+            ],
+            [
+              561,
+              479
+            ]
+          ],
+          "text": "states and local",
+          "confidence": 0.9984,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              465
+            ],
+            [
+              916,
+              465
+            ],
+            [
+              916,
+              479
+            ],
+            [
+              835,
+              479
+            ]
+          ],
+          "text": "bait, because",
+          "confidence": 0.9961,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              465
+            ],
+            [
+              1099,
+              465
+            ],
+            [
+              1099,
+              479
+            ],
+            [
+              930,
+              479
+            ]
+          ],
+          "text": "AIADMKhad takenthatstand,and",
+          "confidence": 0.9586,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              466
+            ],
+            [
+              177,
+              466
+            ],
+            [
+              177,
+              480
+            ],
+            [
+              8,
+              480
+            ]
+          ],
+          "text": "has gone 180 degrees. It is not pos-",
+          "confidence": 0.9818,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              466
+            ],
+            [
+              361,
+              466
+            ],
+            [
+              361,
+              479
+            ],
+            [
+              193,
+              479
+            ]
+          ],
+          "text": "They have this tendency to do",
+          "confidence": 0.984,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              651,
+              467
+            ],
+            [
+              815,
+              469
+            ],
+            [
+              814,
+              490
+            ],
+            [
+              651,
+              488
+            ]
+          ],
+          "text": "served by not allowing",
+          "confidence": 0.9933,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              377,
+              479
+            ],
+            [
+              547,
+              479
+            ],
+            [
+              547,
+              496
+            ],
+            [
+              377,
+              496
+            ]
+          ],
+          "text": "dams, ports, roads, state bound-",
+          "confidence": 0.9848,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              479
+            ],
+            [
+              641,
+              479
+            ],
+            [
+              641,
+              496
+            ],
+            [
+              559,
+              496
+            ]
+          ],
+          "text": "bodies, they",
+          "confidence": 0.9987,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              480
+            ],
+            [
+              916,
+              480
+            ],
+            [
+              916,
+              494
+            ],
+            [
+              835,
+              494
+            ]
+          ],
+          "text": "theamounts",
+          "confidence": 0.9998,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              480
+            ],
+            [
+              1099,
+              480
+            ],
+            [
+              1099,
+              494
+            ],
+            [
+              930,
+              494
+            ]
+          ],
+          "text": "IthoughtifeventheAIADMKhave",
+          "confidence": 0.9824,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              481
+            ],
+            [
+              177,
+              481
+            ],
+            [
+              177,
+              494
+            ],
+            [
+              8,
+              494
+            ]
+          ],
+          "text": "sible to change any more dramat-",
+          "confidence": 0.968,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              481
+            ],
+            [
+              361,
+              481
+            ],
+            [
+              361,
+              495
+            ],
+            [
+              193,
+              495
+            ]
+          ],
+          "text": "publicity value, they are geniuses",
+          "confidence": 0.9856,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              651,
+              491
+            ],
+            [
+              755,
+              488
+            ],
+            [
+              755,
+              508
+            ],
+            [
+              651,
+              512
+            ]
+          ],
+          "text": "prepayment?\"",
+          "confidence": 0.9628,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              495
+            ],
+            [
+              915,
+              493
+            ],
+            [
+              916,
+              509
+            ],
+            [
+              835,
+              512
+            ]
+          ],
+          "text": "were trivial,",
+          "confidence": 0.9729,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              493
+            ],
+            [
+              1100,
+              494
+            ],
+            [
+              1100,
+              510
+            ],
+            [
+              929,
+              509
+            ]
+          ],
+          "text": "figuredthat out, weshould follow",
+          "confidence": 0.9821,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              494
+            ],
+            [
+              643,
+              494
+            ],
+            [
+              643,
+              510
+            ],
+            [
+              560,
+              510
+            ]
+          ],
+          "text": "simply cannot",
+          "confidence": 0.9996,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              496
+            ],
+            [
+              177,
+              496
+            ],
+            [
+              177,
+              509
+            ],
+            [
+              8,
+              509
+            ]
+          ],
+          "text": "ically than that. Complete, com-",
+          "confidence": 0.9626,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              496
+            ],
+            [
+              361,
+              496
+            ],
+            [
+              361,
+              509
+            ],
+            [
+              193,
+              509
+            ]
+          ],
+          "text": "at marketing and very, very low",
+          "confidence": 0.98,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              377,
+              496
+            ],
+            [
+              546,
+              496
+            ],
+            [
+              546,
+              509
+            ],
+            [
+              377,
+              509
+            ]
+          ],
+          "text": "aries, education, health, exams,",
+          "confidence": 0.9898,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              191,
+              508
+            ],
+            [
+              362,
+              509
+            ],
+            [
+              362,
+              526
+            ],
+            [
+              191,
+              525
+            ]
+          ],
+          "text": "moral character. That is, to say.",
+          "confidence": 0.9876,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              376,
+              509
+            ],
+            [
+              547,
+              508
+            ],
+            [
+              547,
+              525
+            ],
+            [
+              376,
+              526
+            ]
+          ],
+          "text": "cooperatives - all of these are",
+          "confidence": 0.9661,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              508
+            ],
+            [
+              642,
+              508
+            ],
+            [
+              642,
+              525
+            ],
+            [
+              560,
+              525
+            ]
+          ],
+          "text": "effectuate pol-",
+          "confidence": 0.9806,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              509
+            ],
+            [
+              915,
+              508
+            ],
+            [
+              915,
+              523
+            ],
+            [
+              835,
+              524
+            ]
+          ],
+          "text": "around Rs 300",
+          "confidence": 0.9591,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              509
+            ],
+            [
+              1099,
+              510
+            ],
+            [
+              1099,
+              524
+            ],
+            [
+              929,
+              523
+            ]
+          ],
+          "text": "too.And there isa different issue, a",
+          "confidence": 0.9297,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              9,
+              511
+            ],
+            [
+              176,
+              511
+            ],
+            [
+              176,
+              525
+            ],
+            [
+              9,
+              525
+            ]
+          ],
+          "text": "plete opposite, completely",
+          "confidence": 0.9712,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              835,
+              525
+            ],
+            [
+              915,
+              523
+            ],
+            [
+              916,
+              538
+            ],
+            [
+              835,
+              540
+            ]
+          ],
+          "text": "crore or 500",
+          "confidence": 0.9874,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              523
+            ],
+            [
+              1099,
+              524
+            ],
+            [
+              1099,
+              541
+            ],
+            [
+              928,
+              540
+            ]
+          ],
+          "text": "Rs 300 crore loan doesn't do any-",
+          "confidence": 0.9841,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              524
+            ],
+            [
+              643,
+              524
+            ],
+            [
+              643,
+              541
+            ],
+            [
+              561,
+              541
+            ]
+          ],
+          "text": "icy. They don't",
+          "confidence": 0.9905,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              9,
+              526
+            ],
+            [
+              176,
+              526
+            ],
+            [
+              176,
+              540
+            ],
+            [
+              9,
+              540
+            ]
+          ],
+          "text": "decimating states' rights in every",
+          "confidence": 0.9602,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              526
+            ],
+            [
+              361,
+              526
+            ],
+            [
+              361,
+              540
+            ],
+            [
+              193,
+              540
+            ]
+          ],
+          "text": "they will start one scheme, they",
+          "confidence": 0.9761,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              526
+            ],
+            [
+              546,
+              526
+            ],
+            [
+              546,
+              540
+            ],
+            [
+              378,
+              540
+            ]
+          ],
+          "text": "states'subjects, 100 percentstate",
+          "confidence": 0.9567,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              559,
+              538
+            ],
+            [
+              731,
+              539
+            ],
+            [
+              731,
+              556
+            ],
+            [
+              559,
+              555
+            ]
+          ],
+          "text": "have enough employees, they",
+          "confidence": 0.9943,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              540
+            ],
+            [
+              915,
+              540
+            ],
+            [
+              915,
+              554
+            ],
+            [
+              746,
+              554
+            ]
+          ],
+          "text": "crore for Tamil Nadu..in that im-",
+          "confidence": 0.962,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              540
+            ],
+            [
+              1099,
+              540
+            ],
+            [
+              1099,
+              554
+            ],
+            [
+              930,
+              554
+            ]
+          ],
+          "text": "thing much for a state like Tamil",
+          "confidence": 0.9849,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              541
+            ],
+            [
+              177,
+              541
+            ],
+            [
+              177,
+              555
+            ],
+            [
+              8,
+              555
+            ]
+          ],
+          "text": "way: in money, management, mi-",
+          "confidence": 0.9795,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              541
+            ],
+            [
+              361,
+              541
+            ],
+            [
+              361,
+              555
+            ],
+            [
+              193,
+              555
+            ]
+          ],
+          "text": "will say subsidy for X. At first,",
+          "confidence": 0.9691,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              541
+            ],
+            [
+              546,
+              541
+            ],
+            [
+              546,
+              555
+            ],
+            [
+              378,
+              555
+            ]
+          ],
+          "text": "subjects, some of them concur-",
+          "confidence": 0.9598,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              553
+            ],
+            [
+              732,
+              554
+            ],
+            [
+              732,
+              570
+            ],
+            [
+              560,
+              569
+            ]
+          ],
+          "text": "don't have data, and they don't",
+          "confidence": 0.9933,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              929,
+              554
+            ],
+            [
+              1098,
+              555
+            ],
+            [
+              1098,
+              569
+            ],
+            [
+              929,
+              568
+            ]
+          ],
+          "text": "Nadu, where annual budget that",
+          "confidence": 0.9824,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              556
+            ],
+            [
+              361,
+              556
+            ],
+            [
+              361,
+              569
+            ],
+            [
+              193,
+              569
+            ]
+          ],
+          "text": "they will give 70 per cent, the",
+          "confidence": 0.9745,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              556
+            ],
+            [
+              546,
+              556
+            ],
+            [
+              546,
+              569
+            ],
+            [
+              378,
+              569
+            ]
+          ],
+          "text": "rent list (ofthe Constitution) sub-",
+          "confidence": 0.9346,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              556
+            ],
+            [
+              916,
+              556
+            ],
+            [
+              916,
+              569
+            ],
+            [
+              746,
+              569
+            ]
+          ],
+          "text": "mediately even the previous",
+          "confidence": 0.9947,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              557
+            ],
+            [
+              177,
+              557
+            ],
+            [
+              177,
+              569
+            ],
+            [
+              8,
+              569
+            ]
+          ],
+          "text": "cromanagement,Centrally-spon-",
+          "confidence": 0.9998,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              570
+            ],
+            [
+              177,
+              570
+            ],
+            [
+              177,
+              584
+            ],
+            [
+              8,
+              584
+            ]
+          ],
+          "text": "sored schemes, in everyway.This",
+          "confidence": 0.983,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              570
+            ],
+            [
+              730,
+              570
+            ],
+            [
+              730,
+              584
+            ],
+            [
+              561,
+              584
+            ]
+          ],
+          "text": "have enough reach. If you em-",
+          "confidence": 0.9954,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              570
+            ],
+            [
+              915,
+              570
+            ],
+            [
+              915,
+              584
+            ],
+            [
+              746,
+              584
+            ]
+          ],
+          "text": "regime saw the concemn that they",
+          "confidence": 0.9707,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              570
+            ],
+            [
+              1099,
+              570
+            ],
+            [
+              1099,
+              584
+            ],
+            [
+              930,
+              584
+            ]
+          ],
+          "text": "time was probablyRs 3 lakh crore",
+          "confidence": 0.9754,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              571
+            ],
+            [
+              361,
+              571
+            ],
+            [
+              361,
+              584
+            ],
+            [
+              193,
+              584
+            ]
+          ],
+          "text": "state will give 30 per cent, and",
+          "confidence": 0.9952,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              571
+            ],
+            [
+              547,
+              571
+            ],
+            [
+              547,
+              585
+            ],
+            [
+              378,
+              585
+            ]
+          ],
+          "text": "jects. (They) bring an overarching",
+          "confidence": 0.9815,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              191,
+              582
+            ],
+            [
+              363,
+              583
+            ],
+            [
+              363,
+              600
+            ],
+            [
+              191,
+              599
+            ]
+          ],
+          "text": "they will put the Prime",
+          "confidence": 0.9773,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              584
+            ],
+            [
+              915,
+              584
+            ],
+            [
+              915,
+              598
+            ],
+            [
+              746,
+              598
+            ]
+          ],
+          "text": "would use this to trigger Article",
+          "confidence": 0.9892,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              584
+            ],
+            [
+              1099,
+              584
+            ],
+            [
+              1099,
+              598
+            ],
+            [
+              930,
+              598
+            ]
+          ],
+          "text": "and capitalexpenditurewell north",
+          "confidence": 0.9701,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              585
+            ],
+            [
+              177,
+              585
+            ],
+            [
+              177,
+              598
+            ],
+            [
+              8,
+              598
+            ]
+          ],
+          "text": "is, by far, the most authoritarian",
+          "confidence": 0.996,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              585
+            ],
+            [
+              546,
+              585
+            ],
+            [
+              546,
+              599
+            ],
+            [
+              378,
+              599
+            ]
+          ],
+          "text": "legislation, ram it through",
+          "confidence": 0.994,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              562,
+              585
+            ],
+            [
+              729,
+              585
+            ],
+            [
+              729,
+              599
+            ],
+            [
+              562,
+              599
+            ]
+          ],
+          "text": "poweryourselfyou can use it vin-",
+          "confidence": 0.9571,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              6,
+              599
+            ],
+            [
+              178,
+              597
+            ],
+            [
+              178,
+              613
+            ],
+            [
+              6,
+              615
+            ]
+          ],
+          "text": "power grab in the history of India.",
+          "confidence": 0.9442,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              744,
+              598
+            ],
+            [
+              916,
+              597
+            ],
+            [
+              916,
+              613
+            ],
+            [
+              744,
+              614
+            ]
+          ],
+          "text": "293 (3) because it is not repayable",
+          "confidence": 0.9278,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              192,
+              598
+            ],
+            [
+              361,
+              599
+            ],
+            [
+              361,
+              613
+            ],
+            [
+              192,
+              612
+            ]
+          ],
+          "text": "Minister's picture and every-",
+          "confidence": 0.9866,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              598
+            ],
+            [
+              730,
+              599
+            ],
+            [
+              730,
+              613
+            ],
+            [
+              561,
+              612
+            ]
+          ],
+          "text": "dictively. youcan use itnegatively.",
+          "confidence": 0.9524,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              598
+            ],
+            [
+              1099,
+              598
+            ],
+            [
+              1099,
+              611
+            ],
+            [
+              930,
+              611
+            ]
+          ],
+          "text": "of Rs 30.000 crore. So, an addi-",
+          "confidence": 0.9521,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              600
+            ],
+            [
+              546,
+              600
+            ],
+            [
+              546,
+              612
+            ],
+            [
+              378,
+              612
+            ]
+          ],
+          "text": "Parliament with no debate, no",
+          "confidence": 0.9979,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              612
+            ],
+            [
+              915,
+              613
+            ],
+            [
+              915,
+              628
+            ],
+            [
+              745,
+              627
+            ]
+          ],
+          "text": "in advance It locks youfor50years.",
+          "confidence": 0.9509,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              26,
+              613
+            ],
+            [
+              176,
+              613
+            ],
+            [
+              176,
+              626
+            ],
+            [
+              26,
+              626
+            ]
+          ],
+          "text": "Directly, directly directly-it",
+          "confidence": 0.9658,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              930,
+              613
+            ],
+            [
+              1099,
+              613
+            ],
+            [
+              1099,
+              627
+            ],
+            [
+              930,
+              627
+            ]
+          ],
+          "text": "tional Rs 300 crore is less than 1",
+          "confidence": 0.9963,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              614
+            ],
+            [
+              362,
+              614
+            ],
+            [
+              362,
+              628
+            ],
+            [
+              193,
+              628
+            ]
+          ],
+          "text": "thing Second year, they will give",
+          "confidence": 0.9684,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              614
+            ],
+            [
+              546,
+              614
+            ],
+            [
+              546,
+              627
+            ],
+            [
+              378,
+              627
+            ]
+          ],
+          "text": "committee, basically, take control",
+          "confidence": 0.9951,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              614
+            ],
+            [
+              730,
+              614
+            ],
+            [
+              730,
+              628
+            ],
+            [
+              561,
+              628
+            ]
+          ],
+          "text": "youcancutoff something-it's like",
+          "confidence": 0.979,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              928,
+              628
+            ],
+            [
+              1020,
+              626
+            ],
+            [
+              1020,
+              643
+            ],
+            [
+              928,
+              645
+            ]
+          ],
+          "text": "percent of capex.",
+          "confidence": 0.9718,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              629
+            ],
+            [
+              177,
+              629
+            ],
+            [
+              177,
+              643
+            ],
+            [
+              8,
+              643
+            ]
+          ],
+          "text": "couldn't be more directly - in",
+          "confidence": 0.9854,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              629
+            ],
+            [
+              361,
+              629
+            ],
+            [
+              361,
+              643
+            ],
+            [
+              193,
+              643
+            ]
+          ],
+          "text": "50 per cent and say state puts 50",
+          "confidence": 0.9684,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              629
+            ],
+            [
+              546,
+              629
+            ],
+            [
+              546,
+              642
+            ],
+            [
+              378,
+              642
+            ]
+          ],
+          "text": "of things that they have no busi-",
+          "confidence": 0.9899,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              561,
+              629
+            ],
+            [
+              730,
+              629
+            ],
+            [
+              730,
+              643
+            ],
+            [
+              561,
+              643
+            ]
+          ],
+          "text": "a rope, you can use it to choke,",
+          "confidence": 0.9919,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              764,
+              629
+            ],
+            [
+              915,
+              629
+            ],
+            [
+              915,
+              643
+            ],
+            [
+              764,
+              643
+            ]
+          ],
+          "text": "You know, andI know, how to",
+          "confidence": 0.9672,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              191,
+              643
+            ],
+            [
+              363,
+              642
+            ],
+            [
+              363,
+              659
+            ],
+            [
+              191,
+              660
+            ]
+          ],
+          "text": "per cent. Third year, they will",
+          "confidence": 0.9721,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              560,
+              644
+            ],
+            [
+              730,
+              643
+            ],
+            [
+              730,
+              658
+            ],
+            [
+              560,
+              659
+            ]
+          ],
+          "text": "strangle or hold somebody, but",
+          "confidence": 0.9953,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              746,
+              644
+            ],
+            [
+              915,
+              644
+            ],
+            [
+              915,
+              658
+            ],
+            [
+              746,
+              658
+            ]
+          ],
+          "text": "dotimevalueof money.So,ifI give",
+          "confidence": 0.9699,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              987,
+              644
+            ],
+            [
+              1099,
+              644
+            ],
+            [
+              1099,
+              657
+            ],
+            [
+              987,
+              657
+            ]
+          ],
+          "text": "FULLINTERVIEWON",
+          "confidence": 0.99,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              8,
+              645
+            ],
+            [
+              177,
+              645
+            ],
+            [
+              177,
+              658
+            ],
+            [
+              8,
+              658
+            ]
+          ],
+          "text": "contrast to everyword he spoke",
+          "confidence": 0.979,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              645
+            ],
+            [
+              546,
+              645
+            ],
+            [
+              546,
+              658
+            ],
+            [
+              378,
+              658
+            ]
+          ],
+          "text": "ness taking control of, which are",
+          "confidence": 0.9756,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              945,
+              656
+            ],
+            [
+              1100,
+              658
+            ],
+            [
+              1099,
+              674
+            ],
+            [
+              945,
+              672
+            ]
+          ],
+          "text": "www.indianexpress.com",
+          "confidence": 0.9852,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              7,
+              659
+            ],
+            [
+              177,
+              660
+            ],
+            [
+              177,
+              673
+            ],
+            [
+              7,
+              672
+            ]
+          ],
+          "text": "for states' rights when he was",
+          "confidence": 0.9779,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              193,
+              659
+            ],
+            [
+              362,
+              659
+            ],
+            [
+              362,
+              672
+            ],
+            [
+              193,
+              672
+            ]
+          ],
+          "text": "give 20 per cent, states give 80",
+          "confidence": 0.9961,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              378,
+              660
+            ],
+            [
+              511,
+              660
+            ],
+            [
+              511,
+              673
+            ],
+            [
+              378,
+              673
+            ]
+          ],
+          "text": "completely antithetical to",
+          "confidence": 0.9997,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              599,
+              660
+            ],
+            [
+              730,
+              660
+            ],
+            [
+              730,
+              673
+            ],
+            [
+              599,
+              673
+            ]
+          ],
+          "text": "nnot push on a rope. You",
+          "confidence": 0.9511,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              745,
+              660
+            ],
+            [
+              915,
+              660
+            ],
+            [
+              915,
+              673
+            ],
+            [
+              745,
+              673
+            ]
+          ],
+          "text": "you Rs 100 today and, I say, pay it",
+          "confidence": 0.9779,
+          "low_confidence": false
+        },
+        {
+          "bbox": [
+            [
+              571,
+              673
+            ],
+            [
+              586,
+              673
+            ],
+            [
+              586,
+              688
+            ],
+            [
+              571,
+              688
+            ]
+          ],
+          "text": "C",
+          "confidence": 0.4681,
+          "low_confidence": true
+        },
+        {
+          "bbox": [
+            [
+              528,
+              674
+            ],
+            [
+              542,
+              674
+            ],
+            [
+              542,
+              687
+            ],
+            [
+              528,
+              687
+            ]
+          ],
+          "text": "o",
+          "confidence": 0.8391,
+          "low_confidence": false
+        }
+      ],
+      "full_text": "rights. Now comes the really sad\ncannot create something by hav-\nbackto meastworupeesayearfor\nTAMIL NADU Finance Minister\npart. It is an undeniable tenet of\ningarope...Lookatall the auditre-\nthe next 50years. Effectively, in to-\nPALANIVELTHIAGARAJANsaid in\nports on Swachh Bharat, on krishi\nday's money, you are only paying\nan interview to SUNNY VERMA\ndemocracythatthe closeryouare\ntothe people, the more accounta-\nthat the Centre has, over the past\nkalyan, they say the money goes,\nbackaboutRs 15 or20,because50\nyears from now two rupees is\nseven years, steadily increased its\nsome toilets are built but there is\nbility is built into the system.\ncontrol over state governments'\n.Sothisisafundamental tenet\nnowatersupply.Thewatersupply\nworth nothing, because of infla-\nthat if you have power and deci-\nspending power, which is leading\ncannot be continuously moni-\ntion. So at some level, the differ-\nto a lot of inefficiencies. Edited\nsion makingallocated to the near-\ntored fromDelhi, right, watersup-\nencebetweena50-year, notinter-\nest point to the people, then you\nply is a municipal subject It's not\nexcerpts:\nest payable, equal instalment\ncan getaccountability and increase\neven a state subject.\nrepayment loan and a grant is not\nthat big But the difference being\nthe likelihood of delivery ofresults.\nOn Centre-statefiscalrelations\nSoyoubuild all this, but ifthere\nis no water supply, what happens\nwhy should they say not pre-\nI'll give you some history.The\nIfyoutake it far away fromthe peo-\nis you've just wasted the money.\nproblembeginswith a fundamen-\nple, vouinherently have a problem\npayable,thenwestartquestioning\nbecause then be very difficult to\nthe intent.\ntal, anti-federal, anti-state,author-\nitrian approachofDelhi It's anold\nCentre'screativeaccounting\nhave anyconnectivitybetween the\nWhyshould itbe intheUnion'\nIn the context of all this I say\ninterest that you cannot prepay\ndecision maker and the benefici-\ning in politics that where you\naries of the decision. So this is the\nthat, therefore, they have taken\nOnwhat logicdoes it makesense\nnd depends on where you sit,\ntwo accounting tricks, what I\nimplyingthatwhereyoustand on\nsad part as they keep taking the\nWhat purpose is served by not al-\nthe issues based on whether you\npower moreand more awayfrom\ncalled as exquisitely creative ac-\nlowing prepayment? If I'm the\nPalanivel Thiaga Rajan\nPIfile\nsit in Opposition, in the House or\nstates and local bodies to the\ncounting, Because of Article 293\nlender, I should be the happiest if\nUnion; they are inherently creat-\nout on the street, etc. That saying\nit's prepaid because I'm getting it\n(3),the previousAIADMK govem-\ningproblemsof\nment, which\ncannot be more apt, there'sa clas-\nin advance where it actually\nwas a coalition\nper cent. Fourth year, they say\ncomplexity in\nsic example for that saying being\nChief Minister of Gujarat for 13\nmeans something Prepayment\npartner of the\nyears. This is the underlying con-\ntwo or three\ntrue, which is our current Prime\nstate has to continue but we will\nshould have been in the interest of\nways. One, they\ngive zero, right. It will still be\nBJP, never felt\ntext. See, they do it bit by bit, bit\nthe borrower by a lot, by a margin\nMinister (Narendra Modi). As a\nWhy should it be in the\nlike taking it\nare reducing\nof thousand, but when it's not al-\nChief Minister, hewasthe greatest\nby bit, insidious creeping. So.\ncalled 'PM xyz scheme'. So, this\nUnion's interest that\nis a kind of my name but your\n(theCentre's\naccountability\nchampion of states' rights, most\nthey started by ramping up the\nlowed thequestionarises ifthere is\nmoney kind of game.\nof govemnment\nvocal, even may be overshadow-\nCentrally-sponsored schemes\nloan) because,\nan ulterior motive here.\nyou cannot prepay? On\nto the people.\nat that time, it\nlike crazy, up to Rs 4–6 lakh crore\n(Whenourgovemment came\ning Jayalalithaa (former Tamil\nwhat logic does it make\nwas very clear\nStatesubjects\nWithout in-\nNaduChiefMinister) herself.Since\nof direct benefits and Centrally-\ninto office)andwe had thisdiscus-\nthat it was just\nThe next point is in the actual\nvolving the\nsense? what purpose is\nhe has become Prime Minister, it\nsponsored scheme transfers.\nsion, it was verv clear that the\nadministration of things like\nstates and local\nbait, because\nAIADMKhad takenthatstand,and\nhas gone 180 degrees. It is not pos-\nThey have this tendency to do\nserved by not allowing\ndams, ports, roads, state bound-\nbodies, they\ntheamounts\nIthoughtifeventheAIADMKhave\nsible to change any more dramat-\npublicity value, they are geniuses\nprepayment?\"\nwere trivial,\nfiguredthat out, weshould follow\nsimply cannot\nically than that. Complete, com-\nat marketing and very, very low\naries, education, health, exams,\nmoral character. That is, to say.\ncooperatives - all of these are\neffectuate pol-\naround Rs 300\ntoo.And there isa different issue, a\nplete opposite, completely\ncrore or 500\nRs 300 crore loan doesn't do any-\nicy. They don't\ndecimating states' rights in every\nthey will start one scheme, they\nstates'subjects, 100 percentstate\nhave enough employees, they\ncrore for Tamil Nadu..in that im-\nthing much for a state like Tamil\nway: in money, management, mi-\nwill say subsidy for X. At first,\nsubjects, some of them concur-\ndon't have data, and they don't\nNadu, where annual budget that\nthey will give 70 per cent, the\nrent list (ofthe Constitution) sub-\nmediately even the previous\ncromanagement,Centrally-spon-\nsored schemes, in everyway.This\nhave enough reach. If you em-\nregime saw the concemn that they\ntime was probablyRs 3 lakh crore\nstate will give 30 per cent, and\njects. (They) bring an overarching\nthey will put the Prime\nwould use this to trigger Article\nand capitalexpenditurewell north\nis, by far, the most authoritarian\nlegislation, ram it through\npoweryourselfyou can use it vin-\npower grab in the history of India.\n293 (3) because it is not repayable\nMinister's picture and every-\ndictively. youcan use itnegatively.\nof Rs 30.000 crore. So, an addi-\nParliament with no debate, no\nin advance It locks youfor50years.\nDirectly, directly directly-it\ntional Rs 300 crore is less than 1\nthing Second year, they will give\ncommittee, basically, take control\nyoucancutoff something-it's like\npercent of capex.\ncouldn't be more directly - in\n50 per cent and say state puts 50\nof things that they have no busi-\na rope, you can use it to choke,\nYou know, andI know, how to\nper cent. Third year, they will\nstrangle or hold somebody, but\ndotimevalueof money.So,ifI give\nFULLINTERVIEWON\ncontrast to everyword he spoke\nness taking control of, which are\nwww.indianexpress.com\nfor states' rights when he was\ngive 20 per cent, states give 80\ncompletely antithetical to\nnnot push on a rope. You\nyou Rs 100 today and, I say, pay it\nC\no",
+      "line_count": 234,
+      "downscaled": false,
+      "column_boundaries": []
+    }
+  ]
+}

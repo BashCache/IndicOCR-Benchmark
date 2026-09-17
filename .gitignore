@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Model weights & binaries (downloads)
+models/*.tar
+models/*.tar.gz
+models/*.onnx
+models/*.pdparams
+models/*.pdmodel
+models/*.pth
+models/ta_PP-OCRv5_mobile_rec_infer/
+
+# Output directories & generated artifacts
+outputs/
+overlay_outputs/
+*.log
+
+# Temp / scratch files
+scratch/
+.tmp/
+
+# IDE and OS metadata
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo

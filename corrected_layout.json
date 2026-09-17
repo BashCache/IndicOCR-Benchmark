@@ -1,0 +1,1017 @@
+{
+  "metadata": {
+    "timestamp": "20260916_164857",
+    "engine": "PaddleOCR LayoutDetection (PP-DocLayout)",
+    "device": "cpu",
+    "threshold": 0.5,
+    "image_count": 1
+  },
+  "results": [
+    {
+      "image_name": "eng-sun-times.png",
+      "image_path": "/home/shruthi/Desktop/Shruthi/OCR/data/eng-sun-times.png",
+      "image_shape": {
+        "width": 428,
+        "height": 849
+      },
+      "total_layouts": 24,
+      "layout_summary": {
+        "doc_title": 4,
+        "paragraph_title": 2,
+        "text": 17,
+        "image": 1
+      },
+      "elements": [
+        {
+          "label": "doc_title",
+          "cls_id": 10,
+          "score": 0.8495,
+          "bbox": [
+            1.0,
+            461.9,
+            261.5,
+            546.2
+          ],
+          "polygon": [
+            [
+              1.0,
+              461.9
+            ],
+            [
+              261.5,
+              461.9
+            ],
+            [
+              261.5,
+              546.2
+            ],
+            [
+              1.0,
+              546.2
+            ]
+          ],
+          "dimensions": {
+            "width": 260.6,
+            "height": 84.3,
+            "area": 21968.6
+          },
+          "center": {
+            "x": 131.3,
+            "y": 504.1
+          },
+          "layout_id": 14,
+          "_corrected_order": 1
+        },
+        {
+          "label": "doc_title",
+          "cls_id": 10,
+          "score": 0.8531,
+          "bbox": [
+            4.7,
+            11.9,
+            253.5,
+            117.8
+          ],
+          "polygon": [
+            [
+              4.7,
+              11.9
+            ],
+            [
+              253.5,
+              11.9
+            ],
+            [
+              253.5,
+              117.8
+            ],
+            [
+              4.7,
+              117.8
+            ]
+          ],
+          "dimensions": {
+            "width": 248.7,
+            "height": 105.8,
+            "area": 26312.5
+          },
+          "center": {
+            "x": 129.1,
+            "y": 64.9
+          },
+          "layout_id": 1,
+          "_flag": "narrow_or_spanning",
+          "_corrected_order": 2
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9713,
+          "bbox": [
+            0.8,
+            121.1,
+            128.0,
+            358.7
+          ],
+          "polygon": [
+            [
+              0.8,
+              121.1
+            ],
+            [
+              128.0,
+              121.1
+            ],
+            [
+              128.0,
+              358.7
+            ],
+            [
+              0.8,
+              358.7
+            ]
+          ],
+          "dimensions": {
+            "width": 127.2,
+            "height": 237.6,
+            "area": 30222.7
+          },
+          "center": {
+            "x": 64.4,
+            "y": 239.9
+          },
+          "layout_id": 5,
+          "_corrected_order": 3
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9541,
+          "bbox": [
+            0.5,
+            360.2,
+            127.8,
+            443.6
+          ],
+          "polygon": [
+            [
+              0.5,
+              360.2
+            ],
+            [
+              127.8,
+              360.2
+            ],
+            [
+              127.8,
+              443.6
+            ],
+            [
+              0.5,
+              443.6
+            ]
+          ],
+          "dimensions": {
+            "width": 127.3,
+            "height": 83.3,
+            "area": 10604.1
+          },
+          "center": {
+            "x": 64.1,
+            "y": 401.9
+          },
+          "layout_id": 11,
+          "_corrected_order": 4
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.6794,
+          "bbox": [
+            0.6,
+            552.4,
+            123.2,
+            561.9
+          ],
+          "polygon": [
+            [
+              0.6,
+              552.4
+            ],
+            [
+              123.2,
+              552.4
+            ],
+            [
+              123.2,
+              561.9
+            ],
+            [
+              0.6,
+              561.9
+            ]
+          ],
+          "dimensions": {
+            "width": 122.7,
+            "height": 9.5,
+            "area": 1165.7
+          },
+          "center": {
+            "x": 61.9,
+            "y": 557.1
+          },
+          "layout_id": 18,
+          "_corrected_order": 5
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9458,
+          "bbox": [
+            0.0,
+            573.3,
+            123.2,
+            690.2
+          ],
+          "polygon": [
+            [
+              0.0,
+              573.3
+            ],
+            [
+              123.2,
+              573.3
+            ],
+            [
+              123.2,
+              690.2
+            ],
+            [
+              0.0,
+              690.2
+            ]
+          ],
+          "dimensions": {
+            "width": 123.2,
+            "height": 116.9,
+            "area": 14402.1
+          },
+          "center": {
+            "x": 61.6,
+            "y": 631.7
+          },
+          "layout_id": 19,
+          "_corrected_order": 6
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9528,
+          "bbox": [
+            0.0,
+            691.6,
+            124.7,
+            809.7
+          ],
+          "polygon": [
+            [
+              0.0,
+              691.6
+            ],
+            [
+              124.7,
+              691.6
+            ],
+            [
+              124.7,
+              809.7
+            ],
+            [
+              0.0,
+              809.7
+            ]
+          ],
+          "dimensions": {
+            "width": 124.7,
+            "height": 118.1,
+            "area": 14727.1
+          },
+          "center": {
+            "x": 62.3,
+            "y": 750.7
+          },
+          "layout_id": 22,
+          "_corrected_order": 7
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.8373,
+          "bbox": [
+            0.7,
+            811.3,
+            126.2,
+            832.4
+          ],
+          "polygon": [
+            [
+              0.7,
+              811.3
+            ],
+            [
+              126.2,
+              811.3
+            ],
+            [
+              126.2,
+              832.4
+            ],
+            [
+              0.7,
+              832.4
+            ]
+          ],
+          "dimensions": {
+            "width": 125.6,
+            "height": 21.1,
+            "area": 2650.2
+          },
+          "center": {
+            "x": 63.4,
+            "y": 821.9
+          },
+          "layout_id": 24,
+          "_corrected_order": 8
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.7099,
+          "bbox": [
+            141.0,
+            125.9,
+            260.2,
+            279.6
+          ],
+          "polygon": [
+            [
+              141.0,
+              125.9
+            ],
+            [
+              260.2,
+              125.9
+            ],
+            [
+              260.2,
+              279.6
+            ],
+            [
+              141.0,
+              279.6
+            ]
+          ],
+          "dimensions": {
+            "width": 119.2,
+            "height": 153.7,
+            "area": 18321.0
+          },
+          "center": {
+            "x": 200.6,
+            "y": 202.8
+          },
+          "layout_id": 6,
+          "_corrected_order": 9
+        },
+        {
+          "label": "image",
+          "cls_id": 1,
+          "score": 0.5153,
+          "bbox": [
+            141.0,
+            125.9,
+            260.2,
+            279.6
+          ],
+          "polygon": [
+            [
+              141.0,
+              125.9
+            ],
+            [
+              260.2,
+              125.9
+            ],
+            [
+              260.2,
+              279.6
+            ],
+            [
+              141.0,
+              279.6
+            ]
+          ],
+          "dimensions": {
+            "width": 119.2,
+            "height": 153.7,
+            "area": 18321.0
+          },
+          "center": {
+            "x": 200.6,
+            "y": 202.8
+          },
+          "layout_id": 7,
+          "_corrected_order": 10
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9475,
+          "bbox": [
+            138.4,
+            286.0,
+            264.3,
+            424.7
+          ],
+          "polygon": [
+            [
+              138.4,
+              286.0
+            ],
+            [
+              264.3,
+              286.0
+            ],
+            [
+              264.3,
+              424.7
+            ],
+            [
+              138.4,
+              424.7
+            ]
+          ],
+          "dimensions": {
+            "width": 125.9,
+            "height": 138.8,
+            "area": 17474.9
+          },
+          "center": {
+            "x": 201.3,
+            "y": 355.3
+          },
+          "layout_id": 10,
+          "_corrected_order": 11
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.6389,
+          "bbox": [
+            138.0,
+            435.3,
+            262.8,
+            445.9
+          ],
+          "polygon": [
+            [
+              138.0,
+              435.3
+            ],
+            [
+              262.8,
+              435.3
+            ],
+            [
+              262.8,
+              445.9
+            ],
+            [
+              138.0,
+              445.9
+            ]
+          ],
+          "dimensions": {
+            "width": 124.8,
+            "height": 10.6,
+            "area": 1322.9
+          },
+          "center": {
+            "x": 200.4,
+            "y": 440.6
+          },
+          "layout_id": 12,
+          "_corrected_order": 12
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.8367,
+          "bbox": [
+            137.1,
+            575.6,
+            261.2,
+            728.2
+          ],
+          "polygon": [
+            [
+              137.1,
+              575.6
+            ],
+            [
+              261.2,
+              575.6
+            ],
+            [
+              261.2,
+              728.2
+            ],
+            [
+              137.1,
+              728.2
+            ]
+          ],
+          "dimensions": {
+            "width": 124.1,
+            "height": 152.6,
+            "area": 18937.7
+          },
+          "center": {
+            "x": 199.1,
+            "y": 651.9
+          },
+          "layout_id": 20,
+          "_corrected_order": 13
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9251,
+          "bbox": [
+            135.1,
+            736.8,
+            263.9,
+            811.7
+          ],
+          "polygon": [
+            [
+              135.1,
+              736.8
+            ],
+            [
+              263.9,
+              736.8
+            ],
+            [
+              263.9,
+              811.7
+            ],
+            [
+              135.1,
+              811.7
+            ]
+          ],
+          "dimensions": {
+            "width": 128.7,
+            "height": 74.9,
+            "area": 9639.6
+          },
+          "center": {
+            "x": 199.5,
+            "y": 774.2
+          },
+          "layout_id": 23,
+          "_corrected_order": 14
+        },
+        {
+          "label": "paragraph_title",
+          "cls_id": 0,
+          "score": 0.5427,
+          "bbox": [
+            271.4,
+            29.0,
+            385.8,
+            111.4
+          ],
+          "polygon": [
+            [
+              271.4,
+              29.0
+            ],
+            [
+              385.8,
+              29.0
+            ],
+            [
+              385.8,
+              111.4
+            ],
+            [
+              271.4,
+              111.4
+            ]
+          ],
+          "dimensions": {
+            "width": 114.3,
+            "height": 82.4,
+            "area": 9418.3
+          },
+          "center": {
+            "x": 328.6,
+            "y": 70.2
+          },
+          "layout_id": 2,
+          "_corrected_order": 15
+        },
+        {
+          "label": "doc_title",
+          "cls_id": 10,
+          "score": 0.5306,
+          "bbox": [
+            271.4,
+            29.0,
+            385.8,
+            111.4
+          ],
+          "polygon": [
+            [
+              271.4,
+              29.0
+            ],
+            [
+              385.8,
+              29.0
+            ],
+            [
+              385.8,
+              111.4
+            ],
+            [
+              271.4,
+              111.4
+            ]
+          ],
+          "dimensions": {
+            "width": 114.3,
+            "height": 82.4,
+            "area": 9418.3
+          },
+          "center": {
+            "x": 328.6,
+            "y": 70.2
+          },
+          "layout_id": 3,
+          "_corrected_order": 16
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.7002,
+          "bbox": [
+            294.9,
+            116.9,
+            367.1,
+            136.6
+          ],
+          "polygon": [
+            [
+              294.9,
+              116.9
+            ],
+            [
+              367.1,
+              116.9
+            ],
+            [
+              367.1,
+              136.6
+            ],
+            [
+              294.9,
+              136.6
+            ]
+          ],
+          "dimensions": {
+            "width": 72.2,
+            "height": 19.8,
+            "area": 1429.6
+          },
+          "center": {
+            "x": 331.0,
+            "y": 126.8
+          },
+          "layout_id": 4,
+          "_corrected_order": 17
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9302,
+          "bbox": [
+            275.1,
+            142.3,
+            395.4,
+            281.6
+          ],
+          "polygon": [
+            [
+              275.1,
+              142.3
+            ],
+            [
+              395.4,
+              142.3
+            ],
+            [
+              395.4,
+              281.6
+            ],
+            [
+              275.1,
+              281.6
+            ]
+          ],
+          "dimensions": {
+            "width": 120.3,
+            "height": 139.4,
+            "area": 16769.8
+          },
+          "center": {
+            "x": 335.2,
+            "y": 212.0
+          },
+          "layout_id": 8,
+          "_corrected_order": 18
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9551,
+          "bbox": [
+            281.2,
+            281.5,
+            401.2,
+            427.7
+          ],
+          "polygon": [
+            [
+              281.2,
+              281.5
+            ],
+            [
+              401.2,
+              281.5
+            ],
+            [
+              401.2,
+              427.7
+            ],
+            [
+              281.2,
+              427.7
+            ]
+          ],
+          "dimensions": {
+            "width": 120.0,
+            "height": 146.1,
+            "area": 17532.0
+          },
+          "center": {
+            "x": 341.2,
+            "y": 354.6
+          },
+          "layout_id": 9,
+          "_corrected_order": 19
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.7089,
+          "bbox": [
+            281.6,
+            438.1,
+            401.2,
+            449.4
+          ],
+          "polygon": [
+            [
+              281.6,
+              438.1
+            ],
+            [
+              401.2,
+              438.1
+            ],
+            [
+              401.2,
+              449.4
+            ],
+            [
+              281.6,
+              449.4
+            ]
+          ],
+          "dimensions": {
+            "width": 119.6,
+            "height": 11.4,
+            "area": 1363.4
+          },
+          "center": {
+            "x": 341.4,
+            "y": 443.7
+          },
+          "layout_id": 13,
+          "_corrected_order": 20
+        },
+        {
+          "label": "paragraph_title",
+          "cls_id": 0,
+          "score": 0.5896,
+          "bbox": [
+            280.6,
+            467.3,
+            403.2,
+            531.4
+          ],
+          "polygon": [
+            [
+              280.6,
+              467.3
+            ],
+            [
+              403.2,
+              467.3
+            ],
+            [
+              403.2,
+              531.4
+            ],
+            [
+              280.6,
+              531.4
+            ]
+          ],
+          "dimensions": {
+            "width": 122.5,
+            "height": 64.1,
+            "area": 7852.2
+          },
+          "center": {
+            "x": 341.9,
+            "y": 499.4
+          },
+          "layout_id": 15,
+          "_corrected_order": 21
+        },
+        {
+          "label": "doc_title",
+          "cls_id": 10,
+          "score": 0.509,
+          "bbox": [
+            280.6,
+            467.3,
+            403.2,
+            531.4
+          ],
+          "polygon": [
+            [
+              280.6,
+              467.3
+            ],
+            [
+              403.2,
+              467.3
+            ],
+            [
+              403.2,
+              531.4
+            ],
+            [
+              280.6,
+              531.4
+            ]
+          ],
+          "dimensions": {
+            "width": 122.5,
+            "height": 64.1,
+            "area": 7852.2
+          },
+          "center": {
+            "x": 341.9,
+            "y": 499.4
+          },
+          "layout_id": 16,
+          "_corrected_order": 22
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9553,
+          "bbox": [
+            279.3,
+            534.6,
+            410.6,
+            682.3
+          ],
+          "polygon": [
+            [
+              279.3,
+              534.6
+            ],
+            [
+              410.6,
+              534.6
+            ],
+            [
+              410.6,
+              682.3
+            ],
+            [
+              279.3,
+              682.3
+            ]
+          ],
+          "dimensions": {
+            "width": 131.3,
+            "height": 147.7,
+            "area": 19393.0
+          },
+          "center": {
+            "x": 344.9,
+            "y": 608.5
+          },
+          "layout_id": 17,
+          "_corrected_order": 23
+        },
+        {
+          "label": "text",
+          "cls_id": 2,
+          "score": 0.9708,
+          "bbox": [
+            280.7,
+            683.7,
+            411.1,
+            813.6
+          ],
+          "polygon": [
+            [
+              280.7,
+              683.7
+            ],
+            [
+              411.1,
+              683.7
+            ],
+            [
+              411.1,
+              813.6
+            ],
+            [
+              280.7,
+              813.6
+            ]
+          ],
+          "dimensions": {
+            "width": 130.4,
+            "height": 129.8,
+            "area": 16925.9
+          },
+          "center": {
+            "x": 345.9,
+            "y": 748.6
+          },
+          "layout_id": 21,
+          "_corrected_order": 24
+        }
+      ],
+      "visualization_path": "outputs/layout_detection/eng-sun-times_layout_vis.jpg",
+      "crops_directory": "outputs/layout_detection/eng-sun-times_crops",
+      "cropped_files": [
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_01_doc_title_85pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_02_paragraph_title_54pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_03_doc_title_53pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_04_text_70pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_05_text_97pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_06_text_70pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_07_image_51pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_08_text_93pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_09_text_95pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_10_text_94pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_11_text_95pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_12_text_63pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_13_text_70pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_14_doc_title_84pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_15_paragraph_title_58pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_16_doc_title_50pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_17_text_95pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_18_text_67pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_19_text_94pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_20_text_83pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_21_text_97pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_22_text_95pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_23_text_92pct.png",
+        "outputs/layout_detection/eng-sun-times_crops/eng-sun-times_region_24_text_83pct.png"
+      ]
+    }
+  ]
+}
